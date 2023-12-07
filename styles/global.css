@@ -1,8 +1,11 @@
 .titulo {
     color: white;
     margin: 0;
-    padding: 10px;
+    padding: 20px;
     background-color: red;
+    display: flex;
+    list-style-type: none;
+  
 }
    
 .container {
